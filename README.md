@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkramMulani
-- 👀 I’m interested in ... Web development mostly
-- 🌱 I’m currently learning ... Computer Engineering last year
+- 👀 I’m interested in ... Web development mostly as well as Software development
+- 🌱 I’m currently learning ... Fresher
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
