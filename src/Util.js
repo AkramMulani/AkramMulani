@@ -12,7 +12,7 @@ export const Util = {
     passion: 'Full Stack Developer',
     resume: '/my_resume.pdf',
     done: 'done',
-    profile: 'https://raw.githubusercontent.com/AkramMulani/AkramMulani/main/public/assets/my_profile.jpeg',
+    profile: 'https://raw.githubusercontent.com/AkramMulani/AkramMulani/master/public/assets/my_profile.jpeg',
     skills: [
         {'Frontend': ['React JS', 'Angular JS', 'HTML5 / CSS3', 'JavaScript (ES6+)', 'Bootstrap']},
         {'Backend': ['Node.js / Express.js', 'Java (Spring Boot)', 'Python (Flask)', 'REST API Development']},
