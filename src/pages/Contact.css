@@ -1,0 +1,61 @@
+.contact-page {
+  min-height: 90vh;
+  background-color: #0e1a2b;
+  color: #ffffff;
+}
+
+.contact-page h2 {
+  color: #0dcaf0;
+  font-weight: bold;
+}
+
+.form-control {
+  background-color: #162231;
+  border: 1px solid #2a2a2a;
+  color: #ffffff;
+}
+
+.form-control::placeholder {
+  color: #aaa;
+}
+
+.floating-message-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.floating-message-box {
+    background-color: #fff;
+    padding: 2rem 3rem;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    max-width: 80%;
+    animation: fadeInScale 0.3s ease;
+}
+
+.floating-message-text {
+    font-size: 1.1rem;
+    color: #333;
+    font-weight: 500;
+}
+
+/* Optional animation */
+@keyframes fadeInScale {
+    from {
+        transform: scale(0.95);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
