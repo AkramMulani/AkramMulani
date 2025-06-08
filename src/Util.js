@@ -24,14 +24,14 @@ export const Util = {
             title: 'Portfolio Website',
             description: 'A personal portfolio to showcase my skills, experience, and projects.',
             tech: ['React.js', 'Bootstrap', 'CSS'],
-            github: 'https://github.com/akram/portfolio',
-            live: 'https://akram-portfolio.vercel.app'
+            github: 'https://github.com/AkramMulani/AkramMulani',
+            live: 'https://akrammulani.github.io/AkramMulani'
         },
         {
             title: 'E-commerce App',
             description: 'A full-stack e-commerce web application with user authentication and payment integration.',
             tech: ['React.js', 'Node.js', 'MongoDB', 'Express'],
-            github: 'https://github.com/akram/ecommerce-app',
+            github: '',
             live: ''
         },
         {
